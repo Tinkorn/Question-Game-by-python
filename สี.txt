@@ -1,4 +1,0 @@
-color="#08d9d6" ฟ้า
-color="#252b35" น้ำเงิน
-color="#ff2e62" แดง
-color="#eaeaea" ขาว
