@@ -7,6 +7,7 @@ to answer by the same mean by english. and it's will bring your score if you cor
 this program have a setup file
 
 1.anwer.txt this file for check your answer and give you point if it's correct.
+
 2.exams.txt this file for the question in thai language.
 
 the program will bring you 'score.txt' after finished the program.
